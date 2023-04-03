@@ -1,0 +1,8 @@
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\3april2023\Addition_of_two_number\bin\Debug\Addition_of_two_number.exe.config
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\3april2023\Addition_of_two_number\bin\Debug\Addition_of_two_number.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\3april2023\Addition_of_two_number\bin\Debug\Addition_of_two_number.pdb
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\3april2023\Addition_of_two_number\obj\Debug\Addition_of_two_number.csproj.AssemblyReference.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\3april2023\Addition_of_two_number\obj\Debug\Addition_of_two_number.csproj.SuggestedBindingRedirects.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\3april2023\Addition_of_two_number\obj\Debug\Addition_of_two_number.csproj.CoreCompileInputs.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\3april2023\Addition_of_two_number\obj\Debug\Addition_of_two_number.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\3april2023\Addition_of_two_number\obj\Debug\Addition_of_two_number.pdb
