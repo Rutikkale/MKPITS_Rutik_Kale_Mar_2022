@@ -1,0 +1,8 @@
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\5 April2023\Date_Time_Forment_Specifier\bin\Debug\Date_Time_Forment_Specifier.exe.config
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\5 April2023\Date_Time_Forment_Specifier\bin\Debug\Date_Time_Forment_Specifier.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\5 April2023\Date_Time_Forment_Specifier\bin\Debug\Date_Time_Forment_Specifier.pdb
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\5 April2023\Date_Time_Forment_Specifier\obj\Debug\Date_Time_Forment_Specifier.csproj.AssemblyReference.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\5 April2023\Date_Time_Forment_Specifier\obj\Debug\Date_Time_Forment_Specifier.csproj.SuggestedBindingRedirects.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\5 April2023\Date_Time_Forment_Specifier\obj\Debug\Date_Time_Forment_Specifier.csproj.CoreCompileInputs.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\5 April2023\Date_Time_Forment_Specifier\obj\Debug\Date_Time_Forment_Specifier.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\5 April2023\Date_Time_Forment_Specifier\obj\Debug\Date_Time_Forment_Specifier.pdb
