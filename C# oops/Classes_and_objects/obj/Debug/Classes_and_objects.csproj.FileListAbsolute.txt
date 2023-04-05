@@ -1,0 +1,8 @@
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C# oops\Classes_and_objects\bin\Debug\Classes_and_objects.exe.config
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C# oops\Classes_and_objects\bin\Debug\Classes_and_objects.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C# oops\Classes_and_objects\bin\Debug\Classes_and_objects.pdb
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C# oops\Classes_and_objects\obj\Debug\Classes_and_objects.csproj.AssemblyReference.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C# oops\Classes_and_objects\obj\Debug\Classes_and_objects.csproj.SuggestedBindingRedirects.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C# oops\Classes_and_objects\obj\Debug\Classes_and_objects.csproj.CoreCompileInputs.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C# oops\Classes_and_objects\obj\Debug\Classes_and_objects.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C# oops\Classes_and_objects\obj\Debug\Classes_and_objects.pdb
