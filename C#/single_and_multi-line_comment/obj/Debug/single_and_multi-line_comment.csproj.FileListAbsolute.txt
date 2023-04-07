@@ -1,0 +1,8 @@
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C#\single_and_multi-line_comment\bin\Debug\single_and_multi-line_comment.exe.config
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C#\single_and_multi-line_comment\bin\Debug\single_and_multi-line_comment.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C#\single_and_multi-line_comment\bin\Debug\single_and_multi-line_comment.pdb
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C#\single_and_multi-line_comment\obj\Debug\single_and_multi-line_comment.csproj.AssemblyReference.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C#\single_and_multi-line_comment\obj\Debug\single_and_multi-line_comment.csproj.SuggestedBindingRedirects.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C#\single_and_multi-line_comment\obj\Debug\single_and_multi-line_comment.csproj.CoreCompileInputs.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C#\single_and_multi-line_comment\obj\Debug\single_and_multi-line_comment.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\C#\single_and_multi-line_comment\obj\Debug\single_and_multi-line_comment.pdb
