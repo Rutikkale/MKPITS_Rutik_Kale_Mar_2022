@@ -1,0 +1,11 @@
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\bin\Debug\My_first_WindowsFormsApp1.exe.config
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\bin\Debug\My_first_WindowsFormsApp1.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\bin\Debug\My_first_WindowsFormsApp1.pdb
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\obj\Debug\My_first_WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\obj\Debug\My_first_WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\obj\Debug\My_first_WindowsFormsApp1.Form1.resources
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\obj\Debug\My_first_WindowsFormsApp1.Properties.Resources.resources
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\obj\Debug\My_first_WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\obj\Debug\My_first_WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\obj\Debug\My_first_WindowsFormsApp1.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\My_first_WindowsFormsApp1\obj\Debug\My_first_WindowsFormsApp1.pdb
