@@ -1,0 +1,11 @@
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\bin\Debug\Calculator.exe.config
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\bin\Debug\Calculator.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\bin\Debug\Calculator.pdb
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\obj\Debug\Calculator.exe
+D:\Git demo\MKPITS_Rutik_Kale_Mar_2022\Windows Form\Calculator\obj\Debug\Calculator.pdb
